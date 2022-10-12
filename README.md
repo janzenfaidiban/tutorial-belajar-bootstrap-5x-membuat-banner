@@ -16,6 +16,6 @@ Banner bisa ditempatkan di bagian header, tengah halaman atau dibagian atas foot
 
 ## Video Tutorial di Youtube
 
-[Tampilkan Video](...)
+[Tampilkan Video](https://youtu.be/63OWAWAA2ag)
 
 
