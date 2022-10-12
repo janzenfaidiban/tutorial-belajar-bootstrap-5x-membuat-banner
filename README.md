@@ -12,7 +12,7 @@ Banner bisa ditempatkan di bagian header, tengah halaman atau dibagian atas foot
 
 ## Live Demo
 
-[Tampilkan Demo](https://janzenfaidiban.github.io/tutorial-belajar-bootstrap-5x-membuat-navbar/)
+[Tampilkan Demo](https://janzenfaidiban.github.io/tutorial-belajar-bootstrap-5x-membuat-banner/)
 
 ## Video Tutorial di Youtube
 
