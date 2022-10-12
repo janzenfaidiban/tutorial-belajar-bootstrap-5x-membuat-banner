@@ -8,7 +8,7 @@ Banner bisa ditempatkan di bagian header, tengah halaman atau dibagian atas foot
 
 ## Hasil Desain
 
-<img src="./screenshot/screencapture.png" width="500px">
+<img src="https://github.com/janzenfaidiban/tutorial-belajar-bootstrap-5x-membuat-banner/blob/main/_screenshot/screencapture.png" width="500px">
 
 ## Live Demo
 
