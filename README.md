@@ -8,7 +8,7 @@ Banner bisa ditempatkan di bagian header, tengah halaman atau dibagian atas foot
 
 ## Hasil Desain
 
-<img src="./_screenshot/screencapture.png" width="500px">
+<img src="./screenshot/screencapture.png" width="500px">
 
 ## Live Demo
 
